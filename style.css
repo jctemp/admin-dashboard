@@ -1,0 +1,14 @@
+:root {
+    --color-background-blue: #1992d4;
+    --color-background-light-blue: #e2e8f0;
+    --color-background-white: #ffffff;
+    --color-accent: #f0b429;
+    --color-text-dark: #000000;
+    --color-text-light: #ffffff;
+}
+
+* {
+    font-family: Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+}
