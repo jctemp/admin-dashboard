@@ -1,8 +1,12 @@
 .heading {
+    grid-area: heading;
+
     padding: 1rem 2rem;
 }
 
 .toolbar {
+    grid-area: tool;
+
     padding: 1rem 2rem;
 
     display: grid;

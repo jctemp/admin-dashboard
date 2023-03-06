@@ -13,6 +13,15 @@
     padding: 0;
 }
 
+.layout {
+    display: grid;
+    grid-template-columns: 19rem 1fr;
+    grid-template-rows: 12rem 1fr;
+    grid-template-areas: 
+        "heading head"
+        "tool main";
+}
+
 .flex-center {
     display: flex;
     align-items: center;

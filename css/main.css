@@ -1,4 +1,6 @@
 .main {
+    grid-area: main;
+
     background-color: var(--color-background-light-blue);
     display: grid;
     grid-template-columns: repeat(3, 1fr);
