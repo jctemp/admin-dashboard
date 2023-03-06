@@ -11,7 +11,7 @@
 
     display: grid;
     gap: 1.25rem;
-    grid-template-rows: repeat(11, 1rem) 1fr;
+    grid-template-rows: 3rem repeat(11, 1rem) 1fr;
 }
 
 .heading,
